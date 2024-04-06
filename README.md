@@ -2,7 +2,7 @@
 My Static Portfolio Website 
 
 
-   =>Hosted using AWS S3 
+   =>Hosted using AWS S3 and AWS CloudFront
 
    
    =>Simple static website built using HTML,CSS
